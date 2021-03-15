@@ -1,3 +1,4 @@
 ZS Resolusi
 -konsinten belajar programming selama 2 jam setiap hari
 -membuat platform untuk mengelola tugas seperti aplikasi kelompok
+-membuat merch shop
